@@ -1,6 +1,7 @@
 # peliculapp
 
-A new Flutter project.
+Proyecto echo con flutter para ver peliculas que estan en la cartelera actualmente, su puntuación, sinopsis y actores.
+Usando como informacion una api : https://www.themoviedb.org 
 
 ## Getting Started
 
